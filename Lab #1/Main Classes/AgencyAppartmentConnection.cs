@@ -1,4 +1,4 @@
-﻿namespace Lab9.MainClasses
+namespace Lab9.MainClasses
 {
     public class AgencyAppartmentConnection
     {
