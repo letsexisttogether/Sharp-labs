@@ -1,0 +1,6 @@
+printer.Print("Всі квартири: ", 
+                reader.GetApartmentDocumentContent("XmlDocuments/Apartments.xml"));
+            printer.Print("Всі агенства: ",
+                reader.GetAgencyDocumentContent("XmlDocuments/Agencies.xml"));
+            printer.Print("Всі доступні агенти: ",
+                reader.GetEstateAgentDocumentContent("XmlDocuments/EstateAgents.xml"));
