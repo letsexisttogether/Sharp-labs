@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Apartments>
+  <Apartment>
+    <id>1</id>
+    <address>Тараса Шевченко 17, б. 13 кв. 35</address>
+    <floor>15</floor>
+    <square>86,3</square>
+  </Apartment>
+  <Apartment>
+    <id>2</id>
+    <address>Острізька, б. 3, кв. 17</address>
+    <floor>1</floor>
+    <square>90</square>
+  </Apartment>
+  <Apartment>
+    <id>3</id>
+    <address>Володимирська, б. 14, кв. 13</address>
+    <floor>11</floor>
+    <square>110,5</square>
+  </Apartment>
+  <Apartment>
+    <id>4</id>
+    <address>Мельнікова, б. 81, кв. 71</address>
+    <floor>15</floor>
+    <square>31,5</square>
+  </Apartment>
+  <Apartment>
+    <id>5</id>
+    <address>Горицького, б. 42, кв. 89</address>
+    <floor>3</floor>
+    <square>30</square>
+  </Apartment>
+  <Apartment>
+    <id>6</id>
+    <address>Прорізна, б. 78. кв. 12</address>
+    <floor>4</floor>
+    <square>85,4</square>
+  </Apartment>
+  <Apartment>
+    <id>7</id>
+    <address>П. Орліка, б. 17, кв. 1</address>
+    <floor>4</floor>
+    <square>83,5</square>
+  </Apartment>
+  <Apartment>
+    <id>8</id>
+    <address>Тараса Шевченко, б. 82. кв. 392</address>
+    <floor>4</floor>
+    <square>90</square>
+  </Apartment>
+  <Apartment>
+    <id>9</id>
+    <address>Житомирська, б. 34, кв. 7</address>
+    <floor>15</floor>
+    <square>35,5</square>
+  </Apartment>
+  <Apartment>
+    <id>10</id>
+    <address>Волинська, б. 42, кв. 4</address>
+    <floor>1</floor>
+    <square>110,5</square>
+  </Apartment>
+  <Apartment>
+    <id>11</id>
+    <address>Широва, б. 23, кв. 2</address>
+    <floor>5</floor>
+    <square>89,8</square>
+  </Apartment>
+  <Apartment>
+    <id>12</id>
+    <address>Копіленка, б. 71, кв. 1</address>
+    <floor>3</floor>
+    <square>32</square>
+  </Apartment>
+  <Apartment>
+    <id>13</id>
+    <address>Інститутская, б. 1. кв. 5</address>
+    <floor>4</floor>
+    <square>70</square>
+  </Apartment>
+  <Apartment>
+    <id>14</id>
+    <address>Фізкультури, б. 105, кв. 1</address>
+    <floor>5</floor>
+    <square>90,9</square>
+  </Apartment>
+  <Apartment>
+    <id>15</id>
+    <address>Львівська, б. 99, кв. 3</address>
+    <floor>9</floor>
+    <square>120</square>
+  </Apartment>
+</Apartments>

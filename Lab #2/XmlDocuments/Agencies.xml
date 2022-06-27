@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Agencies>
+  <Agency>
+    <id>1</id>
+    <title>Продажа нерухомості</title>
+    <address>Інститутська, б. 30</address>
+  </Agency>
+  <Agency>
+    <id>2</id>
+    <title>BSeller</title>
+    <address>Львівська, б. 34</address>
+  </Agency>
+  <Agency>
+    <id>3</id>
+    <title>Plost</title>
+    <address>Пірогова, б. 38</address>
+  </Agency>
+  <Agency>
+    <id>4</id>
+    <title>Афірма</title>
+    <address>Лимова, б. 17</address>
+  </Agency>
+  <Agency>
+    <id>5</id>
+    <title>Fast flat</title>
+    <address>М. Коцюбинського, б. 25</address>
+  </Agency>
+</Agencies>
