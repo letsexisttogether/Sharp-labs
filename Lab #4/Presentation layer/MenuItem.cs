@@ -4,8 +4,8 @@ namespace Presentation_layer
 {
     public class MenuItem
     {
-        protected string _title = string.Empty;
-        protected Action _selected;
+        private string _title = string.Empty;
+        private Action _selected;
 
         public MenuItem(string title, Action selected)
         {
