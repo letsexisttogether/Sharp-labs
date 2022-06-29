@@ -1,0 +1,15 @@
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\bin\Debug\net6.0\ALexLab39.exe
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\bin\Debug\net6.0\ALexLab39.deps.json
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\bin\Debug\net6.0\ALexLab39.runtimeconfig.json
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\bin\Debug\net6.0\ALexLab39.dll
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\bin\Debug\net6.0\ref\ALexLab39.dll
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\bin\Debug\net6.0\ALexLab39.pdb
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\obj\Debug\net6.0\ALexLab39.csproj.AssemblyReference.cache
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\obj\Debug\net6.0\ALexLab39.GeneratedMSBuildEditorConfig.editorconfig
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\obj\Debug\net6.0\ALexLab39.AssemblyInfoInputs.cache
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\obj\Debug\net6.0\ALexLab39.AssemblyInfo.cs
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\obj\Debug\net6.0\ALexLab39.csproj.CoreCompileInputs.cache
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\obj\Debug\net6.0\ALexLab39.dll
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\obj\Debug\net6.0\ref\ALexLab39.dll
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\obj\Debug\net6.0\ALexLab39.pdb
+E:\Important\Унверситет\dNet\Tasks\Лабораторна робота №3\ALexLab39\obj\Debug\net6.0\ALexLab39.genruntimeconfig.cache

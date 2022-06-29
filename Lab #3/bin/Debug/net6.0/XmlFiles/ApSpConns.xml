@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicantSpecialityConnections>
+  <ApplicantSpecialityConnection>
+    <IdApplicant>1</IdApplicant>
+    <IdSpeciality>2</IdSpeciality>
+  </ApplicantSpecialityConnection>
+  <ApplicantSpecialityConnection>
+    <IdApplicant>2</IdApplicant>
+    <IdSpeciality>3</IdSpeciality>
+  </ApplicantSpecialityConnection>
+</ApplicantSpecialityConnections>

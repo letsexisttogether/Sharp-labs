@@ -1,0 +1,14 @@
+1
+SomeTitle
+IT
+false
+
+2
+AnotherTitle 
+Медична
+true	
+
+3
+AnotherTitle 
+Художня
+true	
