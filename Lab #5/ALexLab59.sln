@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALexLab59", "ALexLab59.csproj", "{D9600829-01A7-4CDD-AB9F-69E0D848A55A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9600829-01A7-4CDD-AB9F-69E0D848A55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9600829-01A7-4CDD-AB9F-69E0D848A55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9600829-01A7-4CDD-AB9F-69E0D848A55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9600829-01A7-4CDD-AB9F-69E0D848A55A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE4DB3D-ABB2-45CF-9D7C-A944D4A7EA14}
+	EndGlobalSection
+EndGlobal
